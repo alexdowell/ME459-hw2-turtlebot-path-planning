@@ -63,10 +63,13 @@ To install the necessary packages, run:
 ## Usage  
 1. Open a Python environment or a terminal.  
 2. Navigate to the directory containing the scripts.  
-3. Run the desired script using:  
+3. Run the desired script using:
+```ME_459_HW_2_P1.py```
+```ME_459_HW_2_P1_all.py```
+```ME_459_HW_2_P2.py```
 ```python ME_459_HW_2_P3.py```
 
-4. View the output in the console or graphical visualization of the path.
+5. View the output in the console or graphical visualization of the path.
 
 ## Example Output  
 
